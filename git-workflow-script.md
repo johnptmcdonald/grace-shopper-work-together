@@ -22,7 +22,7 @@
 
 - public
 
-- Initialize this repository with a README
+- Initialize this repository withOUT a README
 
 3. **Clone project repository to local machine and set up Boilermaker**
 
